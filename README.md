@@ -12,6 +12,6 @@ Luego desde Power BI importamos ese dataset y confeccionamos el DER (Diagrama de
 Por ultimo, armamos el dashboard en base a las tablas obtenidas elaborando tambien algunas medidas calculas dentro de Power BI (DAX).
 
 Encontrara el paso por paso realizado en el PDF adjunto en este repositorio.
-El dashboard estara adjunto en un Readme con capturas de imagenes, debido al peso del archivo.
+El dashboard estara adjunto en un archivo .md con capturas de imagenes, debido al peso del archivo.
 
 Gracias!
